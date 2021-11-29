@@ -1,0 +1,3 @@
+C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\Definitions.LidlMario.h
+C:\Unreal Projects\LidlMario\Source\LidlMario\KillZone.h
+C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Inc\LidlMario\KillZone.generated.h

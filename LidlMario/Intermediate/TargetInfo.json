@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LidlMario",
+			"Path": "C:\\Unreal Projects\\LidlMario\\Source\\LidlMario.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LidlMarioEditor",
+			"Path": "C:\\Unreal Projects\\LidlMario\\Source\\LidlMarioEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

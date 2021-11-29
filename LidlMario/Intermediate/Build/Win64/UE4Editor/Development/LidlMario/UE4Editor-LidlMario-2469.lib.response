@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LidlMario-2469.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\LidlMarioEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\LidlMario.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\LidlMarioGameModeBase.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\Mario.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\LidlMario.init.gen.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\LidlMarioGameModeBase.gen.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\Mario.gen.cpp.obj"
+"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\Default.rc2.res"
+/OUT:"C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\UE4Editor-LidlMario-2469.lib"
+/INCLUDE:IMPLEMENT_MODULE_LidlMario

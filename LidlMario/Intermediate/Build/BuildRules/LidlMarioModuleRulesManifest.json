@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\LidlMario\\Source\\LidlMario\\LidlMario.Build.cs",
+		"C:\\Unreal Projects\\LidlMario\\Source\\LidlMario.Target.cs",
+		"C:\\Unreal Projects\\LidlMario\\Source\\LidlMarioEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

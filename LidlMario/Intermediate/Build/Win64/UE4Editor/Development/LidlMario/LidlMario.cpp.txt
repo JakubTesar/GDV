@@ -1,0 +1,2 @@
+C:\Unreal Projects\LidlMario\Intermediate\Build\Win64\UE4Editor\Development\LidlMario\Definitions.LidlMario.h
+C:\Unreal Projects\LidlMario\Source\LidlMario\LidlMario.h
